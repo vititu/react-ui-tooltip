@@ -9,6 +9,10 @@
   "types": "dist",
   "author": "Victor Soares",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vititu/react-ui-tooltip"
+  },
   "scripts": {
     "dev": "microbundle watch",
     "build": "microbundle"
