@@ -1,8 +1,6 @@
 import React, { CSSProperties } from "react";
 import ReactDOM from "react-dom";
 
-import "./styles.css";
-
 export type TooltipProps = {
   label: string;
 };
