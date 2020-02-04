@@ -28,5 +28,9 @@
   "peerDependencies": {
     "react": "*",
     "react-dom": "*"
-  }
+  },
+  "files": [
+    "README.md",
+    "dist"
+  ]
 }
